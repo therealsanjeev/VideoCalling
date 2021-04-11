@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019589878423",
+    "project_id": "videocalling-ef863",
+    "storage_bucket": "videocalling-ef863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019589878423:android:7cd0e3af6969cc6d9dbfd2",
+        "android_client_info": {
+          "package_name": "com.tellmystars.videocalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019589878423-eb2s8ukd8h3ffb7j87qfivk4htqcosa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvdRYXcFBmlFT7fqI2MwJqb5hb7AUnT-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019589878423-eb2s8ukd8h3ffb7j87qfivk4htqcosa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
